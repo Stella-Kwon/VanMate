@@ -1,0 +1,38 @@
+{
+    "project_info": {
+        "project_number": "414139326064",
+        "project_id": "junction2025practice-db93f",
+        "storage_bucket": "junction2025practice-db93f.firebasestorage.app"
+    },
+    "client": [
+        {
+        "client_info": {
+            "mobilesdk_app_id": "1:414139326064:android:3c4b391e54bd4407af1eb5",
+            "android_client_info": {
+            "package_name": "com.junction2025.high5"
+            }
+        },
+        "oauth_client": [
+            {
+            "client_id": "344899548297-156jk3duh9m83lnr1103be8aj9vseg16.apps.googleusercontent.com",
+            "client_type": 1,
+            "android_info": {
+                "package_name": "com.junction2025.high5",
+                "certificate_hash": []
+            }
+            }
+        ],
+        "api_key": [
+            {
+            "current_key": "AIzaSyDfLlDudV_cdkiTqe7V223prsNmI_-3nmk"
+            }
+        ],
+        "services": {
+            "appinvite_service": {
+            "other_platform_oauth_client": []
+            }
+        }
+        }
+    ],
+    "configuration_version": "1"
+}
